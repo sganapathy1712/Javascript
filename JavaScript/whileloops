@@ -1,0 +1,24 @@
+//while
+//dowhile loops
+/*
+while(condtion){
+
+}
+
+do{
+
+}while()
+
+*/
+
+let counter = 7
+// while(counter<=5)
+// {
+//     console.log('counter is '+counter);
+//     counter++
+// }
+
+do{
+    console.log('counter is '+counter);
+    counter++
+}while(counter<=5)
